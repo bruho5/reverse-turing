@@ -1,0 +1,10 @@
+{
+  "name": "reverse-turing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs --pages",
+    "test": "node --test scripts/api.test.mjs",
+    "build:pages": "node scripts/build.mjs --pages"
+  }
+}

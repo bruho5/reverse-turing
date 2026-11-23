@@ -1,0 +1,14 @@
+dist/
+node_modules/
+.openai/.runtime*
+*.sqlite
+
+dist-pages/
+.wrangler/
+wrangler.jsonc
+.env
+.env.*
+.dev.vars
+.dev.vars.*
+*.sqlite-*
+.openai/
